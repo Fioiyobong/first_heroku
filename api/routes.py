@@ -28,7 +28,7 @@ data = [
 ]
 
 
-@api.get("/blogs/")
+@api.route("/blogs/")
 def blog_list():
     return jsonify([
         {
