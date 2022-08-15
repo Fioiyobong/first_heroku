@@ -9,16 +9,12 @@ certifi==2022.6.15
 cffi==1.15.1
 charset-normalizer==2.1.0
 click==8.1.3
-<<<<<<< HEAD
-colorama==0.4.5
-=======
 constantly==15.1.0
 cryptography==37.0.4
 cssselect==1.1.0
 dill==0.3.5.1
 distlib==0.3.4
 filelock==3.7.1
->>>>>>> 215bfa358468cddb23732ec1fbb004db7644af2c
 Flask==2.1.3
 Flask-Login==0.6.2
 Flask-Mail==0.9.1
